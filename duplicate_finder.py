@@ -36,7 +36,7 @@ GROUP_COLORS = [
 ]
 
 
-# ========================= HELPER FUNCTIONS ========================= #
+# ========================== HELPER FUNCTIONS ========================== #
 
 def format_file_size(size_bytes):
     """Convert bytes to human-readable format (KB, MB, GB)."""
